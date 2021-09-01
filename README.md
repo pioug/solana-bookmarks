@@ -1,2 +1,13 @@
-# solana-bookmarks
-Just to make sure that I visit the correct URL
+- https://app.saber.so/#/farms
+- https://app.step.finance/#/dashboard
+- https://app.sunny.ag/
+- https://dashboard.steaking.io/
+- https://mercurial.finance/
+- https://parrot.fi/mint/
+- https://raydium.io/farms/
+- https://solend.fi/dashboard
+- https://solfarm.io/vaults
+- https://sonar.watch/dashboard
+- https://www.orca.so/pools
+- https://www.socean.fi/
+- https://www.sollet.io/
