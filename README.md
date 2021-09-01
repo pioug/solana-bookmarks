@@ -2,6 +2,7 @@
 - https://app.step.finance/#/dashboard
 - https://app.sunny.ag/
 - https://dashboard.steaking.io/
+- https://marinade.finance/app/staking/form
 - https://mercurial.finance/
 - https://parrot.fi/mint/
 - https://raydium.io/farms/
