@@ -10,5 +10,5 @@
 - https://solfarm.io/vaults
 - https://sonar.watch/dashboard
 - https://www.orca.so/pools
-- https://www.socean.fi/
+- https://www.socean.fi/app
 - https://www.sollet.io/
