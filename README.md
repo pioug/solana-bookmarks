@@ -9,6 +9,7 @@
 - https://solend.fi/dashboard
 - https://solfarm.io/vaults
 - https://sonar.watch/dashboard
+- https://swap.symmetry.fi/
 - https://www.orca.so/pools
 - https://www.socean.fi/app
 - https://www.sollet.io/
