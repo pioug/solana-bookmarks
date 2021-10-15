@@ -10,9 +10,9 @@
 - https://parrot.fi/mint/
 - https://raydium.io/farms/
 - https://solend.fi/dashboard
-- https://solfarm.io/vaults
 - https://sonar.watch/dashboard
 - https://swap.symmetry.fi/
+- https://tulip.garden/vaults
 - https://www.orca.so/pools
 - https://www.socean.fi/app
 - https://www.sollet.io/
