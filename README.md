@@ -1,3 +1,4 @@
+- https://app.atrix.finance/#/farms
 - https://app.cyclos.io/
 - https://app.saber.so/#/farms
 - https://app.step.finance/#/dashboard
