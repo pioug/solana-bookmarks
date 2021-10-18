@@ -5,6 +5,7 @@
 - https://app.sunny.ag/
 - https://dashboard.steaking.io/
 - https://dex.aldrin.com/
+- https://francium.io/app/lend
 - https://mainnet.port.finance/#/dashboard
 - https://marinade.finance/app/staking/form
 - https://mercurial.finance/
