@@ -3,6 +3,7 @@
 - https://app.saber.so/#/farms
 - https://app.step.finance/#/dashboard
 - https://app.sunny.ag/
+- https://cropper.finance/farms/
 - https://dashboard.steaking.io/
 - https://dex.aldrin.com/
 - https://francium.io/app/lend
