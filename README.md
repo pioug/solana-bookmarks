@@ -13,6 +13,7 @@
 - https://mercurial.finance/
 - https://parrot.fi/mint/
 - https://raydium.io/farms/
+- https://sencha.so/#/pool
 - https://solend.fi/dashboard
 - https://sonar.watch/dashboard
 - https://swap.symmetry.fi/
