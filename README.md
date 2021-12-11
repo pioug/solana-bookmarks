@@ -4,6 +4,7 @@
 - https://app.saber.so/#/farms
 - https://app.step.finance/#/dashboard
 - https://app.sunny.ag/
+- https://cashio.app/#/print
 - https://cropper.finance/farms/
 - https://dashboard.steaking.io/
 - https://dex.aldrin.com/
