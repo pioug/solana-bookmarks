@@ -1,5 +1,6 @@
 - https://app.atrix.finance/#/farms
 - https://app.cyclos.io/
+- https://app.friktion.fi/income
 - https://app.katana.so/vaults
 - https://app.quarry.so/#/rewarders
 - https://app.saber.so/#/farms
