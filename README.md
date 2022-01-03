@@ -1,3 +1,4 @@
+- https://app.apricot.one/
 - https://app.atrix.finance/#/farms
 - https://app.cyclos.io/
 - https://app.friktion.fi/income
