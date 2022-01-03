@@ -23,6 +23,7 @@
 - https://sonar.watch/dashboard
 - https://swap.symmetry.fi/
 - https://tulip.garden/vaults
+- https://www.chest.fi/
 - https://www.orca.so/pools
 - https://www.socean.fi/app
 - https://www.sollet.io/
