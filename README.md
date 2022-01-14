@@ -15,7 +15,7 @@
 - https://francium.io/app/lend
 - https://jup.ag/
 - https://mainnet.port.finance/#/dashboard
-- https://marinade.finance/app/staking/form
+- https://marinade.finance/app/staking
 - https://mercurial.finance/
 - https://parrot.fi/mint/
 - https://raydium.io/farms/
