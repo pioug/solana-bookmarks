@@ -10,7 +10,6 @@
 - https://app.tapfinance.so/
 - https://cashio.app/#/print
 - https://cropper.finance/farms/
-- https://dashboard.steaking.io/
 - https://dex.aldrin.com/
 - https://francium.io/app/lend
 - https://jup.ag/
