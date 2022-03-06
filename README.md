@@ -22,6 +22,7 @@
 - https://solana.lido.fi/
 - https://solend.fi/dashboard
 - https://sonar.watch/dashboard
+- https://stake.kineko.io/
 - https://swap.symmetry.fi/
 - https://tulip.garden/vaults
 - https://www.chest.fi/
