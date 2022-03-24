@@ -9,7 +9,6 @@
 - https://app.step.finance/#/dashboard
 - https://app.sunny.ag/
 - https://app.tapfinance.so/
-- https://cashio.app/#/print
 - https://cropper.finance/farms/
 - https://dex.aldrin.com/
 - https://francium.io/app/lend
