@@ -1,7 +1,7 @@
 - https://app.apricot.one/
 - https://app.atrix.finance/#/farms
 - https://app.crema.finance/#/pool
-- https://app.cyclos.io/
+- https://app.cykura.io/#/swap
 - https://app.friktion.fi/income
 - https://app.katana.so/vaults
 - https://app.quarry.so/#/rewarders
