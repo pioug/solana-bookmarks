@@ -3,6 +3,7 @@
 - https://app.crema.finance/#/pool
 - https://app.cykura.io/#/swap
 - https://app.friktion.fi/income
+- https://app.hubbleprotocol.io/
 - https://app.katana.so/vaults
 - https://app.quarry.so/#/rewarders
 - https://app.saber.so/#/farms
